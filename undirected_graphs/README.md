@@ -1,4 +1,4 @@
-#Undirected Graph Connectivity
+# Undirected Graph Connectivity
 
 analyze the sigmoidal regression thingy, if you want to compile just do g++ with all of the files, use the -w flag because who cares about warnings.
 
