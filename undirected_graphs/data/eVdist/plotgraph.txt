@@ -1,0 +1,7 @@
+set title 'Fraction of Maximum Possible Edges vs. Distance Threshold'
+set xlabel 'Distance Threshold'
+set ylabel 'Fraction of Maximum Possible Edges'
+set key right bottom
+set xrange [0:30]
+set yrange [0:1]
+plot 'E10.txt' using 1:2   with lines title '10 Vertices', 'E20.txt' using 1:2   with lines title '20 Vertices', 'E30.txt' using 1:2   with lines title '30 Vertices', 'E40.txt' using 1:2   with lines title '40 Vertices', 'E50.txt' using 1:2   with lines title '50 Vertices', 'E60.txt' using 1:2   with lines title '60 Vertices', 'E70.txt' using 1:2   with lines title '70 Vertices', 'E80.txt' using 1:2   with lines title '80 Vertices', 'E90.txt' using 1:2   with lines title '90 Vertices', 'E100.txt' using 1:2   with lines title '100 Vertices'

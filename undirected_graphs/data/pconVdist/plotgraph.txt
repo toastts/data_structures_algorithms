@@ -1,0 +1,7 @@
+set title 'Probability of Connectedness vs. Distance Threshold'
+set xlabel 'Distance Threshold'
+set ylabel 'Probability of Connectedness'
+set key right bottom
+set xrange [0:30]
+set yrange [0:1.005]
+plot 'PC5.txt' using 1:2 smooth acsplines with lines title '5 Vertices', 'PC20.txt' using 1:2 smooth acsplines with lines title '20 Vertices', 'PC30.txt' using 1:2 smooth acsplines  with lines title '30 Vertices', 'PC40.txt' using 1:2 smooth acsplines with lines title '40 Vertices', 'PC50.txt' using 1:2 smooth acsplines with lines title '50 Vertices'
