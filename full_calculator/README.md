@@ -1,5 +1,5 @@
 # RaceConditionsCalculator
-Calculator Project with group of Ronit, Shariq, Joshua, Aydin.
+Calculator Project
 
 To Run Code:
 -Navigate to code/calc/main.cpp
