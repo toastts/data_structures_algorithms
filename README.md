@@ -1,2 +1,2 @@
 # data_structures_algorithms
-just some stuff done for a data structures and algorithms class 2019-2020
+just some stuff done for a ds+algo; trees, sorts, heaps, etc.
