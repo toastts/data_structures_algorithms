@@ -41,4 +41,4 @@ Create an executable of our [main.hpp file](https://github.com/BASIS-Bradley/Tea
 
 ## Authors
 
-Shariq, Sreevatsa, Joshua
+toast+2
