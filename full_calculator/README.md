@@ -1,4 +1,4 @@
-# RaceConditionsCalculator
+# a calculator with a GUI you shouldn't use
 Calculator Project
 
 To Run Code:
