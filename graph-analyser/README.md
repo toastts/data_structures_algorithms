@@ -1,6 +1,5 @@
 # Graphs
-
-Throughout this project our team implemented the graph data structure consisting of series of points that share relation to one another, represented by edges. We also implemented many functions utilizing the properties of graphs that explored through this project.
+implementations of graphs and functions using the properties of graphs
 
 ## Prerequisites
 
