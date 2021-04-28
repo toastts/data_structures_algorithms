@@ -1,4 +1,4 @@
-# aribola
+# a reverse engineered windows space pinball
 Hacking pinball with IDA and Ghidra, broke everything in assembly
 
 
